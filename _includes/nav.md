@@ -1,6 +1,6 @@
 ***
 
-* [CS50 IDE](https://ide.cs50.io/)
+* [CS50 IDE (Prog2)](https://ide.cs50.io/)
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 
 ***
